@@ -1,0 +1,6 @@
+{
+  "name": "Kala Seduh — Kedai Kopi & Pemesanan Online",
+  "description": "Landing page minimalis kedai kopi spesialti Kala Seduh dengan menu interaktif, kustomisasi minuman, dan sistem pemesanan online.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
